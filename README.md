@@ -8,7 +8,7 @@
 - ...or send me an e-mail: jahonoratoc@gmail.com
 
 
-<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" /> mailto:jahonoratoc@gmail.com
 
 <!---
 jhonoratoc/jhonoratoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
