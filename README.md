@@ -7,9 +7,6 @@
 - 📫 How to reach me: add me to your professional network on LinkedIn -> https://www.linkedin.com/in/jo%C3%A3o-honorato-3426a41a0/
 - ...or send me an e-mail: jahonoratoc@gmail.com
 
-
-<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" /> mailto:jahonoratoc@gmail.com
-
 <!---
 jhonoratoc/jhonoratoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
