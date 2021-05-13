@@ -4,8 +4,12 @@
 - 👀 I’m interested in solving problems of any area with data science, data analysis and data visualization tools
 - 🌱 I’m currently learning Python and useful libs for data science (Pandas, Seaborn, Matplotlib, Numpy etc)
 - 💞️ I’m looking to collaborate on projects that allow me to absorb as much knowledge as possible
-- 📫 How to reach me: add me to your professional network on LinkedIn -> https://www.linkedin.com/in/jo%C3%A3o-honorato-3426a41a0/
+- 📫 How to reach me: add me to your professional network on LinkedIn -> 
 - ...or send me an e-mail: jahonoratoc@gmail.com
+
+
+
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> (https://www.linkedin.com/in/jo%C3%A3o-honorato-3426a41a0/)
 
 <!---
 jhonoratoc/jhonoratoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
